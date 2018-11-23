@@ -1,5 +1,5 @@
 ---
-name: Tutorial PR
+name: WAT?!
 about: Making a Pull Request for the ZEIT Getting Started tutorial?
 
 ---
